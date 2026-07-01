@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=%23FF6600&size=50&center=true&vCenter=true&height=70&width=750&lines=TeamCyberOps+%F0%9F%94%90;Democratize+Security.;Hunt.+Hack.+Defend.;Elite+Cyber+Operations." alt="TeamCyberOps"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=%23FF6600&size=50&center=true&vCenter=true&height=70&width=750&lines=TeamBlackHat+%F0%9F%94%90;Democratize+Security.;Hunt.+Hack.+Defend.;Elite+Cyber+Operations." alt="TeamBlackHat"/>
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ## 🔐 Who We Are
 
-**TeamCyberOps** is an elite community of security researchers, ethical hackers, bug hunters, and cybersecurity professionals — united by one mission:
+**TeamBlackHat** is an elite community of security researchers, ethical hackers, bug hunters, and cybersecurity professionals — united by one mission:
 
 > **"Our Mission is to Democratize Security."**
 
