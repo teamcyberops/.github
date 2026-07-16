@@ -68,11 +68,11 @@ We believe cybersecurity knowledge should not be locked behind expensive courses
   </a>
 </p>
 
-**TCO Academy** is the official educational initiative of TeamCyberOps — designed to take complete beginners to elite-level hackers through structured, hands-on courses.
+**TCO Academy** is the official educational initiative of TeamBlackHat — designed to take complete beginners to elite-level hackers through structured, hands-on courses.
 
 <div align="center">
 
-| 🔐 TeamCyberOps | 🎓 TCO Academy |
+| 🔐 TeamBlackHat | 🎓 TCO Academy |
 |-----------------|----------------|
 | Research & Operations | Education & Courses |
 | Elite Professionals | Beginner → Advanced Learners |
@@ -89,11 +89,11 @@ We believe cybersecurity knowledge should not be locked behind expensive courses
   <a href="http://teamcyberops.vercel.app">
     <img src="https://img.shields.io/badge/🌐_Website-teamcyberops.vercel.app-FF6600?style=for-the-badge&color=FF6600"/>
   </a>
-  <a href="https://tco-academy.vercel.app">
+  <a href="https://learn.teamcyberops.xyz">
     <img src="https://img.shields.io/badge/🎓_TCO_Academy-Learning_Platform-22C55E?style=for-the-badge&color=22C55E"/>
   </a>
-  <a href="https://twitter.com/CyberOps_l9801">
-    <img src="https://img.shields.io/badge/𝕏_Twitter-@CyberOps__l9801-000000?style=for-the-badge&logo=x&color=000000"/>
+  <a href="https://twitter.com/teamcyberops">
+    <img src="https://img.shields.io/badge/𝕏_Twitter-@teamcyberops-000000?style=for-the-badge&logo=x&color=000000"/>
   </a>
   <a href="https://linkedin.com/company/teamcyberops">
     <img src="https://img.shields.io/badge/LinkedIn-TeamCyberOps-0077B5?style=for-the-badge&logo=linkedin&color=000000"/>
